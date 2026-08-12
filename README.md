@@ -37,8 +37,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/st022/dsa/tree/master/0127-word-ladder) |
+| [0417-pacific-atlantic-water-flow](https://github.com/st022/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/st022/dsa/tree/master/0127-word-ladder) |
+## Array
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/st022/dsa/tree/master/0417-pacific-atlantic-water-flow) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/st022/dsa/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/st022/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
